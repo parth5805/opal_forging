@@ -67,3 +67,14 @@ Forged Result: Rare 2222
 - **Mythic Level Incentives**: Users who forge 7 Legendary gems into 1 Mythic gem may receive additional incentives.
 - **New Gem Introduction**: Upon forging or minting a Mythic gem, new gems may be introduced, which can be mined or forged using Mythic gems.
 
+## Demo
+
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/04f8d72a-cfb0-4e0f-bd73-3c598bd6ebe5">
+
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/82d6c692-1df9-46a2-81bb-77ac93d6312a">
+
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/c86906be-ee7b-48ab-8f79-259d33360e19">
+
+
+
+
