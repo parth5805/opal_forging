@@ -18,14 +18,6 @@ Each level has specific mappings for the sum of quadrants modulo results. Specia
 
 When the sum of quadrants results in `1111`, it maps to a specific shape in the next level. This is due to the fact that `1111` technically should return a gem of the Unique level. To ensure users do not skip levels, the gem mapped from `1111` will be the last gem of the current level. For example, for Rare level, `1111` will map to `3332` instead of `3333`. 
 
-**Incentives:**
-- **Forging Fees Reduction**: Users who obtain a `1111` sum of quadrants will receive a reduction in forging fees as an additional advantage.
-
-## Future Enhancements
-
-- **Mythic Level Incentives**: Users who forge 7 Legendary gems into 1 Mythic gem may receive additional incentives.
-- **New Gem Introduction**: Upon forging or minting a Mythic gem, new gems may be introduced. These new gems could be minable or forgable using Mythic gems, adding more utility and depth to the game.
-
 ## Prerequisites
 
 - Node.js installed on your machine.
